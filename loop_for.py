@@ -1,8 +1,6 @@
-# Iterar em lista
-
-lista = ['Alana', 'Rita', 'Eudo']
-
-for nome in lista:
-    print(nome)
+with open('treino.txt', 'r', encoding='utf-8') as leitura:
+    for linha in leitura:
+        linha = linha.replace(',', '')
+        print(linha, end='')
 
  
