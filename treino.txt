@@ -1,4 +1,0 @@
-Nome, Idade, Peso
-Eudo, 44, 95
-Alana, 6, 15
-Rita, 39, 56
